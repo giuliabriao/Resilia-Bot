@@ -26,9 +26,11 @@ No servidor, ao escrever `!mensagens <id do cargo>` o Ricardito vai responder de
 
 Foi especificado ao robô que respondesse à mensagens apenas no canal "Fale-com-o-bot" no servidor de testes, mas isso pode ser alterado posteriormente. Toda lógica no código foi feita com base na biblioteca e em lógica de programação comum para resolver os problemas, como o de contagem de mensagens por exemplo.
 
-###  <strong>Estudos</strong>
+### <strong> Estudos</strong>
 
-A lib do Discord é a principal ferramenta de estudos, além de alguns servidores de devs que podem tirar dúvidas: [Discord Developers](https://discord.gg/discord-developers), servidor oficial do Discord [Discord API](https://discord.gg/discord-api), servidor não oficial do Discord e o [Discord Js](https://discord.gg/djs), servidor específico sobre a lib.
+A [lib do Discord](https://discord.js.org/#/docs/main/stable/general/welcome) é a principal ferramenta de estudos, além de alguns servidores de devs que podem tirar dúvidas: [Discord Developers](https://discord.gg/discord-developers), servidor oficial do Discord [Discord API](https://discord.gg/discord-api), servidor não oficial do Discord e o [Discord Js](https://discord.gg/djs), servidor específico sobre a lib.
+
+Recomendo demais aprender de maneira fácil e divertida sobre bots com a seguinte [série de vídeos do canal The Coding Train](https://www.youtube.com/watch?v=7A-bnPlxj4k). Foi com ele que aprendi o básico sobre bots e já me ajudou a pelo menos sair do zero.
 
 ### 📌 <strong>Próximos passos</strong>
 
